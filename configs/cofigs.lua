@@ -1,6 +1,6 @@
 Config = {}
 
-Config.TimeCheck = 6000 * 60 --Los minutos en los que el script checara los taxes
+Config.TimeCheck = 60000 * 60 --Los minutos en los que el script checara los taxes
 
 Config.Debug = true
 
